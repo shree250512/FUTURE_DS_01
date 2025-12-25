@@ -83,3 +83,5 @@ View insights or apply filters for analysis
 📽 Demo Video The project demo video has been uploaded to GitHub under the Releases section.
 
 ➡ Please navigate to Releases → v1.0 and download the video to view the full demonstration.
+
+dataset : https://github.com/shree250512/FUTURE_DS_01/blob/main/amazon-dashboard.csv
